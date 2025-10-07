@@ -1,0 +1,4 @@
+3
+the line 1,Ahmed,3,150.2,250.36,845 represent data of a banking account whose number is 1, owner name is Ahmed, and the (3 products) prices (150.2,250.36,845) which mean total cost before discount is 1245.56
+the line 2,Mohamed,4,150.25,250.36,845,1025.00 represent data of a banking account whose number is 2, owner name is Mohamed, and the (4 products) prices (150.25,250.36,845,1025.00) which mean total cost before discount is 2248.89
+the line 3,o,3,12.0,120.0,12200.0 represent data of a banking account whose number is 3, owner name is o and the (3 products) prices [12.0, 120.0, 12200.0] which means total cost before discount is 12332.0
